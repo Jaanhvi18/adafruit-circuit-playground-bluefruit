@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="forever" id="U4|nN@=SF}*1{ViEOba7" x="0" y="0"></block><block type="mixer_play_sound" id="$okcl=Vaw-iUh4$Ed3W1" disabled="true" x="10" y="130"><field name="sound">music.powerUp</field></block></xml>
